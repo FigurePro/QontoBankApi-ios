@@ -1,0 +1,20 @@
+Host: auth.qonto.com
+Connection: keep-alive
+Content-Length: 58
+sec-ch-ua: " Not;A Brand";v="99", "Google Chrome";v="91", "Chromium";v="91"
+X-Qonto-Platform-Version: app d358933cea
+X-Qonto-Device: e7ad59d8-e637-41c6-9bc5-85d950f7d903
+sec-ch-ua-mobile: ?0
+X-Qonto-Referrer: https://app.qonto.com/signin
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.77 Safari/537.36
+Content-Type: application/json; charset=UTF-8
+X-Qonto-Device-Type: browser
+X-Qonto-Locale: fr
+Accept: */*
+Origin: https://app.qonto.com
+Sec-Fetch-Site: same-site
+Sec-Fetch-Mode: cors
+Sec-Fetch-Dest: empty
+Referer: https://app.qonto.com/
+Accept-Encoding: gzip, deflate, br
+Accept-Language: fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7
